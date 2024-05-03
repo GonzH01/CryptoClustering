@@ -3,7 +3,7 @@
 The aim of this Jupyter Notebook script is to analyze cryptocurrency market data using K-Means clustering and Principal Component Analysis (PCA). The goal is to identify patterns and group together cryptocurrencies that exhibit similar behavior, with a focus on tracking their price changes over a specified period.
 
 ## Contents
-- [Crypto_Clustering](notebook.ipynb): Jupyter Notebook containing the analysis code.
+- [Crypto_Clustering](Crypto_Clustering.ipynb): Jupyter Notebook containing the analysis code.
 - [crypto_market_data](Resources/crypto_market_data.csv): CSV file containing the cryptocurrency market data.
 
 ## Dependencies
